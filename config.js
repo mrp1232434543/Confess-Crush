@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: 'j',
     title: 'Cậu có iu tớ hong',
     desc: '???',
-    btnYes: 'Thích lắm <33',
+    btnYes: 'iu lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại iu mình <3',
     btnReply: 'Gửi cho bạn <3',
